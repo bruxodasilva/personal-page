@@ -1,0 +1,63 @@
+baseURL: ""
+languageCode: en-us
+title: Diogo Ferreira
+paginate: 3
+theme: PaperMod
+
+enableRobotsTXT: true
+
+googleAnalytics: UA-123-45
+
+params:
+  env: production
+  title: Diogo Ferreira
+  description: "Diogo Ferreira Blog"
+  keywords: [Blog, Portfolio]
+  author: Diogo Ferreira
+  
+  ShowReadingTime: true
+
+  homeInfoParams:
+    Title: Diogo Ferreira
+    Content: Welcome to my little corner in the web
+
+  profileMode:
+    enabled: true
+    title: "Diogo Ferreira" # optional default will be site title
+    subtitle: "CTO & Enterprenuer"
+    imageUrl: "https://media.licdn.com/dms/image/C4E03AQFmZp5jO5wSlA/profile-displayphoto-shrink_200_200/0/1629307739239?e=1677110400&v=beta&t=d5ZQAf6-fgrrLrbRXgHtORHhpILhY0Q3obK5ZDPWKRk" # optional
+    imageTitle: "Diogo Ferreira" # optional
+    # imageWidth: 120 # custom size
+    # imageHeight: 120 # custom size
+    buttons:
+      - name: About Me
+        url: "/about/"
+      - name: Blog
+        url: "/blog/"
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/ferreiradiogo/"
+    - name: twitter
+      url: "https://twitter.com/bruxo_da_silva"
+    - name: github
+      url: "https://github.com/"
+
+menu:
+  main:
+    - identifier: about
+      name: About Me
+      url: /about/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 50
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
