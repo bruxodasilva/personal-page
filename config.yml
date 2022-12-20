@@ -11,8 +11,8 @@ googleAnalytics: G-1J7F1B9V5W
 params:
   env: production
   title: Diogo Ferreira
-  description: "Diogo Ferreira Blog"
-  keywords: [Blog, Portfolio]
+  description: "Diogo Ferreira Personal Page & Blog"
+  keywords: [Blog, Portfolio, Personal Page]
   author: Diogo Ferreira
   
   ShowReadingTime: true
@@ -24,7 +24,7 @@ params:
   profileMode:
     enabled: true
     title: "Diogo Ferreira" # optional default will be site title
-    subtitle: "CTO & Entrepreneur"
+    subtitle: "CTO, Founder, Entrepreneur"
     subtitle2: "Proudly from Porto, Portugal"
     imageUrl: "https://media.licdn.com/dms/image/C4E03AQFmZp5jO5wSlA/profile-displayphoto-shrink_200_200/0/1629307739239?e=1677110400&v=beta&t=d5ZQAf6-fgrrLrbRXgHtORHhpILhY0Q3obK5ZDPWKRk" # optional
     imageTitle: "Diogo Ferreira" # optional
