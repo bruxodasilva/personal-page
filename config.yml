@@ -41,7 +41,7 @@ params:
     - name: twitter
       url: "https://twitter.com/bruxo_da_silva"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/bruxodasilva"
 
 menu:
   main:
