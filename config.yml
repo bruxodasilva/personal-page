@@ -24,11 +24,12 @@ params:
   profileMode:
     enabled: true
     title: "Diogo Ferreira" # optional default will be site title
-    subtitle: "CTO & Enterprenuer"
+    subtitle: "CTO & Entrepreneur"
+    subtitle2: "Proudly from Porto, Portugal"
     imageUrl: "https://media.licdn.com/dms/image/C4E03AQFmZp5jO5wSlA/profile-displayphoto-shrink_200_200/0/1629307739239?e=1677110400&v=beta&t=d5ZQAf6-fgrrLrbRXgHtORHhpILhY0Q3obK5ZDPWKRk" # optional
     imageTitle: "Diogo Ferreira" # optional
-    # imageWidth: 120 # custom size
-    # imageHeight: 120 # custom size
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
     buttons:
       - name: About Me
         url: "/about/"
