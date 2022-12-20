@@ -1,6 +1,5 @@
 ---
 title: "About Me"
-layout: "lists"
 date: 2022-12-20T15:49:57Z
 draft: false
 ---
@@ -19,27 +18,27 @@ Want to know a bit more about me? Here is my [CV](/Diogo_Ferreira_CV.pdf).
 
 ### Codavel
 
-_CTO & Co‐Founder_
+_CTO & Co‐Founder_ (2018-Present)
 
 ### Streambolico
 
-_CTO & Co‐Founder_
+_CTO & Co‐Founder_ (2012-2018)
 
 ### Instituto de Telecomunicações
 
-_Researcher_
+_Researcher_ (2006-2015)
 
 ### Telefonica I+D
 
-_Intern_
+_Intern_ (2010)
 
 ### NTT Docomo Euro‐Labs
 
-_Intern_
+_Intern_ (2009)
 
 ### FCUP (Faculdade de Ciências da Universidade do Porto)
 
-_Teaching Assistant_
+_Teaching Assistant_ (2007)
 
 ---
 
@@ -47,8 +46,8 @@ _Teaching Assistant_
 
 ### FEUP (Faculdade de Engenharia da Universidade do Porto)
 
-_PhD Candidate in Telecommunications_
+_PhD Candidate in Telecommunications_ (2009-2015)
 
 ### FCUP (Faculdade de Ciências da Universidade do Porto)
 
-_MSc & BSc in Computer Science and Network Engineering_
+_MSc & BSc in Computer Science and Network Engineering_ (2004-2009)
