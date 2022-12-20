@@ -3,6 +3,8 @@ title: "TLS 1.3: The New Security King"
 date: 2018-11-05T14:00:00Z
 draft: false
 tags: [security, networks, protocols, tls]
+cover:
+  image: /img/tls1.3.png
 ---
 
 > Post originaly done on [Codavel's blog](https://blog.codavel.com/tls-1.3-the-new-security-king)
@@ -50,7 +52,7 @@ The major efforts on TLS 1.3 to improve [its performance](/blog/measuring-tls-1.
 
 Moreover, TLS 1.3 also allows a client to reconnect to a known server in 0-RTT, by sharing a resumption master secret, meaning that both peers do not waste any time negotiating a secure pipe prior to sending useful data.
 
-<!-- Image Source -->
+![](/img/tls-1.png#center)
 
 Contrary to older versions, with TLS 1.3 all algorithms negotiation occur in an independent manner. This is, the key exchange algorithm can be negotiated independently from the cipher used for the communication pipe. In another version of TLS, these options were bundled together.
 
@@ -64,7 +66,7 @@ Even though TLS 1.3 brings many improvements to the table, it also creates new c
 
 Given that the client and the server do not establish a complete handshake, the shared resumption master secret does not benefit from forwarding secrecy. As we previously discussed, this would allow a potential attacker to decode an encrypted pipe if he manages to access the resumption master secret.
 
-<!-- Image Source -->
+![](/img/gcp-cloud-cdn-performance.gif#center)
 
 Moreover, using the 0-RTT feature to communicate with a known server, it opens the door for replay attacks. In the 0-RTT connection establishment, the server simply accepts the data from the client if the resumption master secret is correct. If we consider that the client’s data is an order to transfer money to a bank account, an attacker could simply repeat the message sent by the client to server and the server would count the transaction twice. Not very good for the client…
 
@@ -85,3 +87,8 @@ TLS 1.3 is the next step into a better and more secure Internet. It is securer, 
 Even though security must be a top priority, we must not forget the tradeoff between security and speed. TLS 1.3 does exactly that, by trading some security for the reduction of handshake time by allowing 0-RTT connection establishment.
 
 I believe that we must always look for solutions that solve the security challenges we’re facing, while making sure that such solutions do not impair or reduce the performance of our services (performance matters!). I hope that this keeps being a concern on future developments that will for sure occur on future versions of TLS.
+
+#### _Images sources_
+
+* https://www.keycdn.com/blog/tls-1-3-support
+* https://cloudplatform.googleblog.com/2018/06/Introducing-QUIC-support-for-HTTPS-load-balancing.html

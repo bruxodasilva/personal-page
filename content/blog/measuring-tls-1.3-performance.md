@@ -3,6 +3,8 @@ title: "Measuring TLS 1.3 Performance"
 date: 2018-12-05T14:00:00Z
 draft: false
 tags: [security, networks, protocols, tls]
+cover:
+  image: /img/tls13performance.png
 ---
 
 > Post originaly done on [Codavel's blog](https://blog.codavel.com/measuring-tls-1.3-performance)
@@ -23,7 +25,7 @@ As a general rule, the latency of each access technology increases as follows:
 
 And even though you can have the best access technology, this does not mean the protocol you use to access the content won’t be your biggest bottleneck! In order to get content served to my device, the protocol needs to send a message to the server, get the response, then send another message to the server and get the response and then send another message to the server and finally get the content… (see example below!). This means that I need 2.5 round-trip-times (RTT) before the server actually sends me any content. That’s not very efficient, is it?
 
-<!-- IMAGE -->
+![](/img/standardprotocols.png#center)
 
 So what does an efficient protocol do? An efficient protocol tries to minimize the number of round-trip-time (RTT) required in order to successfully establish a connection. And that is the goal of TLS 1.3 regarding performance, reduce the required RTTs.
 
