@@ -1,8 +1,9 @@
 ---
 title: "About Me"
-date: 2022-12-20T15:49:57Z
 draft: false
 ---
+
+<!-- <img src="/img/me.png" style="height: 100px; width:100px; border-radius:50%;"/> -->
 
 I have more than 10 years of experience in technology, product, and engineering management with solid know‐how in adopting software methodologies, agility, and innovation. Capable of transforming business needs from C‐Level, Investors, and Customers, into technical products.
 
