@@ -11,7 +11,7 @@ I have management and hands‐on experience with various areas and technologies:
 
 I love technology, problem‐solving is in my heart and aviation is my passion. I am always eager to learn new things.
 
-Want to know a bit more about me? Here is my [CV](/Diogo_Ferreira_CV.pdf).
+Want to know a bit more about me? Here is my [CV](/content/Diogo_Ferreira_CV.pdf).
 
 ---
 
