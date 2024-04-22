@@ -17,9 +17,17 @@ Want to know a bit more about me? Here is my [CV](/Diogo_Ferreira_CV.pdf).
 
 ## Work Experience
 
+### NPAW
+
+_Director of Engineering & Head of Plugins Team_ (2023-Present)
+
 ### Codavel
 
-_CTO & Co‐Founder_ (2018-Present)
+_Co‐Founder & Board Tech Advisor_ (2023-Present)
+
+### Codavel
+
+_CTO & Co‐Founder_ (2018-2023)
 
 ### Streambolico
 
