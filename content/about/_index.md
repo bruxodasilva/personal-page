@@ -23,7 +23,7 @@ _Director of Engineering & Head of Plugins Team_ (2023-Present)
 
 ### Codavel
 
-_CTO & Co‐Founder_ (2018-Present)
+_CTO & Co‐Founder_ (2018-2023)
 
 ### Streambolico
 
