@@ -25,7 +25,7 @@ params:
   profileMode:
     enabled: true
     title: "Diogo Ferreira" # optional default will be site title
-    subtitle: "CTO, Founder, Entrepreneur"
+    subtitle: "Entrepreneurship, Tech Lead, Network Expert, Cloud Technology, Product Development, Protocol Designer, Software Architect"
     subtitle2: "Proudly from Porto, Portugal"
     imageUrl: "/img/me.png"
     imageTitle: "Diogo Ferreira" # optional
