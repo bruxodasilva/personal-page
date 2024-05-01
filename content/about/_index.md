@@ -5,11 +5,11 @@ draft: false
 
 <!-- <img src="/img/me.png" style="height: 100px; width:100px; border-radius:50%;"/> -->
 
-I have more than 10 years of experience in technology, product, and engineering management with solid know‐how in adopting software methodologies, agility, and innovation. Capable of transforming business needs from C‐Level, Investors, and Customers, into technical products.
+I have more than 12 years of industry experience in technology, product, and engineering management with solid know-how in adopting software methodologies, agility, and innovation. As a tech entrepreneur, I am capable of transforming business needs from C-Level, Investors, and Customers, into technical products. I have founded two startups, one of which was sold to an industry leader.
 
-I have management and hands‐on experience with various areas and technologies: network protocols, system design, distributed systems, cloud, and mobile. Also, I possess unique knowledge of network coding techniques. Additionally, I love to build ground‐breaking solutions from scratch, with focus on performance and scalability. Led cross‐functional teams towards concrete objectives, focused on delivery, especially under con‐ ditions of uncertainty. I’m always interested in embracing new challenges in complex environments involving different stakeholders. Results‐oriented, creative, hands‐on, and able to make decisions.
+I have management and hands-on experience with various areas and technologies: network protocols, system design, distributed systems, cloud, and mobile. Additionally, I possess unique knowledge of network coding techniques. I love to build ground-breaking solutions from scratch, with a focus on performance and scalability. I led cross-functional teams towards concrete objectives, focused on delivery with quality, especially under conditions of uncertainty. I am always interested in embracing new challenges in complex environments, involving different stakeholders. I am results-oriented, creative, hands-on, and a decision-maker by nature.
 
-I love technology, problem‐solving is in my heart and aviation is my passion. I am always eager to learn new things.
+I love technology, problem-solving is in my heart and aviation is my passion. I am always eager to learn new things.
 
 Want to know a bit more about me? Here is my [CV](/content/Diogo_Ferreira_CV.pdf).
 
@@ -23,11 +23,7 @@ _Director of Engineering & Head of Plugins Team_ (2023-Present)
 
 ### Codavel
 
-_Co‐Founder & Board Tech Advisor_ (2023-Present)
-
-### Codavel
-
-_CTO & Co‐Founder_ (2018-2023)
+_CTO & Co‐Founder_ (2018-Present)
 
 ### Streambolico
 
