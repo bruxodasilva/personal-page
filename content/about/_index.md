@@ -17,9 +17,13 @@ Want to know a bit more about me? Here is my [CV](/content/Diogo_Ferreira_CV.pdf
 
 ## Work Experience
 
+### Cloudflare
+
+_Engineer Manager_ (2024-Present)
+
 ### NPAW
 
-_Director of Engineering & Head of Plugins Team_ (2023-Present)
+_Director of Engineering & Head of Plugins Team_ (2023-2024)
 
 ### Codavel
 
