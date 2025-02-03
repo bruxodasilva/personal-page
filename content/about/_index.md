@@ -19,7 +19,7 @@ Want to know a bit more about me? Here is my [CV](/content/Diogo_Ferreira_CV.pdf
 
 ### Cloudflare
 
-_Senior Engineer Manager_ (2024-Present)
+_Senior Engineering Manager_ (2024-Present)
 
 ### NPAW
 
