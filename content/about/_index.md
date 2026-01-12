@@ -17,9 +17,13 @@ Want to know a bit more about me? Here is my [CV](/content/Diogo_Ferreira_CV.pdf
 
 ## Work Experience
 
+### Scopely
+
+_Principal Security Architect_ (2026-Present)
+
 ### Cloudflare
 
-_Senior Engineering Manager_ (2024-Present)
+_Senior Engineering Manager_ (2024-2026)
 
 ### NPAW
 
